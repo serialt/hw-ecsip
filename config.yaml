@@ -1,0 +1,6 @@
+huaweicloud:
+  - name: xxxxx
+    accessKeyId: xxxxx 
+    accessKeySecret: xxxxx
+    region: 
+      - cn-east-3
